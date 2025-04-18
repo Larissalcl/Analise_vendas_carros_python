@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpdLoaE3aPMl3rWVCWOXoW-qZz0MK4Nxseg&s"/>
 
-# Primeira projeto de análise de dados no python.
+# Meu projeto inicial de análise de dados utilizando o Power BI.
 
-Neste projeto, foi realizado o tratamento dos dados brutos e, em seguida, foram geradas análises das vendas de carros, segmentadas por marca e país. O objetivo é fornecer insights relevantes sobre o desempenho de diferentes fabricantes em diversos mercados.
+As etapas envolveram o tratamento de dados brutos e a subsequente geração de análises da performance discente, estratificadas por média, visando a extração de informações relevantes.
 
