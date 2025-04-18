@@ -1,8 +1,5 @@
 # Objetivo: analisar as marcas de carros mais vendidos segundo preço e local.
 
-# Passo 4: Análise das vendas
-# Passo 5: Análise das causas das vendas
-
 # Passo 1: Importar base de dados e ajustar a exibição
 import pandas as pd
 
@@ -42,7 +39,6 @@ print('Qtd registros atual:', df.shape[0]) #0 - linhas
 df.drop_duplicates() #Remover linhas duplicadas.
 print('Qtd de resgitros removendo as duplicadas:', len(df)) # len também mostra o número de linhas
 
-
 df.to_csv('vendas_carros_tratado.csv', index=False)
 
 # Passo 4: Análise das vendas
@@ -64,6 +60,7 @@ print("\n Nº de carros vendidos por país:\n", qte_por_pais_percentagem)
 
 import plotly.express as px
 
-for coluna in df.columns:
+df_tratado = df[['MARCA', 'MODELO', 'PAÍS', 'REGIÃO']]
+for coluna in df_tratado.columns:
     grafico = px.histogram(df, x=coluna, color='MARCA')
     grafico.show()
