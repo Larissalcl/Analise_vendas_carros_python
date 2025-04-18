@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpdLoaE3aPMl3rWVCWOXoW-qZz0MK4Nxseg&s"/>
+<img src="https://tse3.mm.bing.net/th?id=OIP.6Kqelh70YGeD2F67hCFLAgHaDj&pid=Api&P=0&h=180"/>
 
 # Meu projeto inicial de análise de dados utilizando o Power BI.
 
