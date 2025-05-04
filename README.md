@@ -1,5 +1,33 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpdLoaE3aPMl3rWVCWOXoW-qZz0MK4Nxseg&s"/>
 
-# Primeira projeto de análise de dados no python.
 
-Neste projeto, foi realizado o tratamento dos dados brutos e, em seguida, foram geradas análises das vendas de carros, segmentadas por marca e país. O objetivo é fornecer insights relevantes sobre o desempenho de diferentes fabricantes em diversos mercados.
+# 📊 Primeiro projeto de análise de dados no python.
+Neste projeto, foi realizado o tratamento de dados brutos fictícios referentes às vendas de carros, com o objetivo de gerar análises segmentadas por marca e país.
+
+O foco principal é fornecer insights relevantes sobre o desempenho de diferentes fabricantes em diversos mercados, possibilitando uma visão estratégica das tendências e preferências de consumo em cada região.
+
+🔧 Etapas do Projeto
+ - Limpeza e padronização dos dados
+
+ - Análise exploratória (EDA)
+
+ - Segmentação por marca e país
+
+ - Visualização dos resultados com gráficos interativos
+
+
+📊 Tecnologias Utilizadas
+ - Python (Pandas, Matplotlib, Seaborn)
+
+ - Jupyter Notebook
+
+ - Power BI (para dashboards complementares)
+
+
+🎯 Objetivos
+ - Identificar os principais fabricantes por volume de vendas
+
+ - Comparar o desempenho entre países
+
+ - Apoiar decisões de mercado baseadas em dados simulados
+
+<img src="https://www.opencadd.com.br/hubfs/analise-de-dados-industria-automotiva.jpg"/>
