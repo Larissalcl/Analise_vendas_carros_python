@@ -30,4 +30,4 @@ O foco principal é fornecer insights relevantes sobre o desempenho de diferente
 
  - Apoiar decisões de mercado baseadas em dados simulados
 
-<img src="https://www.opencadd.com.br/hubfs/analise-de-dados-industria-automotiva.jpg"/>
+
